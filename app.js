@@ -77,7 +77,7 @@ mongoose
 .then(()=>{
     console.log("connected to mongodb")
     app.listen(3000,()=>{
-        console.log("node app is running");
+        console.log("node is running fine");
     })
     
    
